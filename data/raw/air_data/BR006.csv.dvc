@@ -1,0 +1,5 @@
+outs:
+- md5: 8c144d0f8090c24f8f1c4e8580c664bf
+  size: 4254043
+  hash: md5
+  path: BR006.csv

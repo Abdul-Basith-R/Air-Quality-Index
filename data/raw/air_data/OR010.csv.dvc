@@ -1,0 +1,5 @@
+outs:
+- md5: d6a8c13df8ad34b5d9480880de4a3fc5
+  size: 140174
+  hash: md5
+  path: OR010.csv

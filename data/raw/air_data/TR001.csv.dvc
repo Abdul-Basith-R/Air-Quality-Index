@@ -1,0 +1,5 @@
+outs:
+- md5: e0304dca9a069d23586e83bebd5dfc57
+  size: 2710035
+  hash: md5
+  path: TR001.csv

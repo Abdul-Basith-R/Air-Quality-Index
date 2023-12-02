@@ -1,0 +1,5 @@
+outs:
+- md5: 1e211a744861483e99c7d3bcc9346cfb
+  size: 329908
+  hash: md5
+  path: AS006.csv

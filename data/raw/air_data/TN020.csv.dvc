@@ -1,0 +1,5 @@
+outs:
+- md5: d37a8aad5cbc8369e1aaeed6532f13a1
+  size: 506332
+  hash: md5
+  path: TN020.csv

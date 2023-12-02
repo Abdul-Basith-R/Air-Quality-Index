@@ -1,0 +1,5 @@
+outs:
+- md5: fc5de2b36efafca492c47d9fdb9ef0d9
+  size: 2134671
+  hash: md5
+  path: TN006.csv

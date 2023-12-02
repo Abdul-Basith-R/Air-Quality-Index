@@ -1,0 +1,5 @@
+outs:
+- md5: 7d24b692d7f4a369c88bba48f87a6709
+  size: 1729590
+  hash: md5
+  path: AR001.csv

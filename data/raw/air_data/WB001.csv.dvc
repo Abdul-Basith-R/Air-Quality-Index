@@ -1,0 +1,5 @@
+outs:
+- md5: 300a30732d32cdd12bae59e2e5b0fd85
+  size: 5816115
+  hash: md5
+  path: WB001.csv

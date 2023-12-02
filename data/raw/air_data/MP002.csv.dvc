@@ -1,0 +1,5 @@
+outs:
+- md5: 3d09b735a85a1e1eafcf73a68e0479cd
+  size: 6488253
+  hash: md5
+  path: MP002.csv

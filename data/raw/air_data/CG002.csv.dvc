@@ -1,0 +1,5 @@
+outs:
+- md5: a8f4b5a7c1b8ab2fb2ec26123c33954d
+  size: 815933
+  hash: md5
+  path: CG002.csv

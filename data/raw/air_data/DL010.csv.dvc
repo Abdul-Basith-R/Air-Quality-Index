@@ -1,0 +1,5 @@
+outs:
+- md5: a223143690ce2d78a9ad6f6bc9091a1f
+  size: 8888994
+  hash: md5
+  path: DL010.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: d1d29576a95e2fe57a966d52a95a6788
+  size: 51402
+  hash: md5
+  path: TN024.csv

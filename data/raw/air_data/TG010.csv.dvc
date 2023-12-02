@@ -1,0 +1,5 @@
+outs:
+- md5: a06b0814da02de9c3bb04ed51f0dc9db
+  size: 1048555
+  hash: md5
+  path: TG010.csv

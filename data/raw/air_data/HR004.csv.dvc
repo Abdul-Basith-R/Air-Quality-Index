@@ -1,0 +1,5 @@
+outs:
+- md5: 395ba93ba027f9a8939b3a3f0afdf78a
+  size: 7919279
+  hash: md5
+  path: HR004.csv
