@@ -12,3 +12,19 @@ stages:
       hash: md5
       md5: 862f59abe0c98d3030fdbd5863d5b750
       size: 83798524
+  preprocess:
+    cmd: python .\src\data\preprocess.py
+    deps:
+    - path: .\data\processed\data.csv
+      hash: md5
+      md5: 862f59abe0c98d3030fdbd5863d5b750
+      size: 83798524
+    - path: .\src\data\preprocess.py
+      hash: md5
+      md5: d05efadd31ac7fc99f39aacb2dea0bec
+      size: 4039
+    outs:
+    - path: .\data\interim\data.csv
+      hash: md5
+      md5: 4358372846e104b5f58d9f5a60fc9115
+      size: 156217608
