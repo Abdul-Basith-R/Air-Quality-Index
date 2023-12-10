@@ -1,0 +1,8 @@
+stages:
+  prepare:
+    cmd: python .\src\data\make_dataset.py
+    deps:
+    # - .\data\raw\air_data\*.csv
+    - .\src\data\make_dataset.py
+    outs:
+    - .\data\processed\data.csv
